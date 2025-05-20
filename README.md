@@ -16,7 +16,7 @@ Me too. So here's a script that fixes that for ya. 👍👍👍👍
 ```
 brew install duti
 ```
-3.	Find VSCode’s bundle ID (optional - Do this if the code doesn’t work):
+3.	Find VSCode’s bundle ID (**optional** - Do this if the code doesn’t work):
 ```
 osascript -e 'id of app "Visual Studio Code"'
 ```
